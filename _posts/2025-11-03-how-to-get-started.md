@@ -12,7 +12,7 @@ These sketches are the homework for Day 2 and Day 3 of a free course by Toby Ske
 
 ## Random thoughts
 
-Build your drawing [skills](https://artjourney.nicolas-steenhout.com/talent-vs-skills/). Even if you don't have any. Especially if you don't have any. The base drawing is the foundation of your sketch, whether you do it in pencil or ink or straight in watercolor. A shoddy foundation means a sketch that won't look right.
+Build your drawing [skills](/talent-vs-skills/). Even if you don't have any. Especially if you don't have any. The base drawing is the foundation of your sketch, whether you do it in pencil or ink or straight in watercolor. A shoddy foundation means a sketch that won't look right.
 
 I know that working on perspective and proportions will improve my sketches. I'm not as bad as I was, but I have a long way to go still.
 

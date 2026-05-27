@@ -33,10 +33,10 @@ But since I started in the sketchbook I really wanted, a Hahnem&uuml;hle A6 port
 
 The following sketches are a few ones I've done since getting this kit. These are done in the Hahnem&uuml;hle 100% cotton sketchbook
 
-* [First quick one - tree](https://artjourney.nicolas-steenhout.com/trees/)
-* [Good life](https://artjourney.nicolas-steenhout.com/good-life/)
-* [Quick one at border crossing](https://artjourney.nicolas-steenhout.com/border-crossing/)
-* [Quick one while waiting for take out](https://artjourney.nicolas-steenhout.com/border-crossing/)
+* [First quick one - tree](/trees/)
+* [Good life](/good-life/)
+* [Quick one at border crossing](/border-crossing/)
+* [Quick one while waiting for take out](/mini-train/)
 
 ## Time will tell
 
