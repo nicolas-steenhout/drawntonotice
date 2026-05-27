@@ -36,7 +36,7 @@ The following sketches are a few ones I've done since getting this kit. These ar
 * [First quick one - tree](/trees/)
 * [Good life](/good-life/)
 * [Quick one at border crossing](/border-crossing/)
-* [Quick one while waiting for take out](/border-crossing/)
+* [Quick one while waiting for take out](/mini-train/)
 
 ## Time will tell
 
