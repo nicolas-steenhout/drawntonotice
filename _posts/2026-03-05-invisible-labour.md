@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Invisible labour
-tags: Newsletter 
+tags: Newsletter Message-sketches
 ---
 Self-advocacy - it is asking a lot of disabled people. It's often disheartening and exhausting.
 
