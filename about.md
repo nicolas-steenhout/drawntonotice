@@ -4,25 +4,28 @@ title: About
 permalink: /about/
 ---
 
-One of my hobbies (I have several!) is sketching and painting with watercolor. This is great to get away from computer work. I'm not an expert, my art is unlikely to ever be lauded and sold! But it's good enough for me. Most of the time, it's not about the end result, but the process. I'm having fun with it. It's good for my brain.
+I’m Nicolas. One of my hobbies (I have several!) is sketching and painting with watercolor. Drawn to Notice is where I share what I make, what I’m learning, and the materials I use.
 
-## More Information
+Making art gets me away from computer work. I’m having fun with it. It’s good for my brain. I’d like the results to be better, but most of the time, the process is what keeps me coming back.
 
-I've always been interested in art. I remember getting an oil art set when I was 8 or 9. It didn't go anywhere because I didn't get any instructions with it, and I thought I sucked, so I didn't proceed.
+## Finding my way back to drawing
 
-I got myself a huge set of colored pencils when I was in high school. But it didn't go very far either - I thought I sucked, so it didn't go anywhere...
+I’ve always been interested in art. I remember getting an oil painting set when I was eight or nine. It didn’t come with instructions, and I didn’t know what to do with it. I thought I sucked, so I stopped.
 
-About 20 years ago, I got myself a small Winsor & Newton Cotman (student grade) palette. I toyed with it. But... You might start to see a pattern, I thought I sucked, so it didn't go far. But the desire was still there.
+In high school, I bought a huge set of colored pencils. About twenty years ago, I got a small Winsor & Newton Cotman watercolor palette. Neither went very far. You might start to see a pattern.
 
-About 3 years ago I got more serious about it. Got decent equipment. Spent a lot of time on YouTube, got a few books. Practiced. And didn't give up, even though.... Yep, you guessed it! Even though I thought I sucked.
+But the desire was still there. Eventually, I got more serious about it. Got decent equipment. Spent a lot of time on YouTube, got a few books, and practiced. I wasn’t always happy with what I made, but I kept going.
 
-Life got in the way and I had a nearly year long break, but it wasn't due to poor feelings about art. I got back into it more seriously in August of 2025.
+Life got in the way, and I took nearly a year off. This time, though, it wasn’t because I felt bad about my art. I got back into it more seriously in August 2025.
 
-I *still* think my work isn't what I want it to be. I still think I'm failing more than succeeding. But as I said earlier, it's about the process more than the finished result, a lot of the time. And since many people I show my sketches to seem to think they are all right, I'm learning to be less harsh on myself, even if the impostor syndrome is strong!
+I still think my work isn’t where I want it to be. But people I show my sketches to often seem to think they’re all right. I’m learning to be less harsh on myself, even if the impostor syndrome is strong!
 
-## About the posts
+## What’s here
 
-I'm starting this art journey blog in 2025. But you'll see entries going back much further than that - I'm just going to add older pieces I've made, and date the entries to the date it was made.
+I share [sketches and paintings](https://drawntonotice.art/tag/Sketches), [thoughts about making art](https://drawntonotice.art/tag/Thoughts/), and posts about the [gear, kit, and equipment I use](https://drawntonotice.art/tag/Gear).
+
+I started this blog in 2025. You’ll also find older pieces, with each post dated to when I made the work.
+
 
 ## Contact me
 
